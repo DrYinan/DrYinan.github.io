@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-TEL：18600075010    |    E-mail：me@yinan.liu    |    北京市朝阳区
+**TEL**: 18600075010  &emsp;&emsp;  |  &emsp;&emsp;  **E-mail**: me@yinan.liu  &emsp;&emsp;  |   &emsp;&emsp; 北京市朝阳区
 ## 教育背景
 **北京大学  博士** <br/>
 艺术学院，艺术学理论（艺术管理和文化产业方向） <br/>
