@@ -73,3 +73,5 @@ Sep. 2013 - Jul. 2019
 * **Industry insight**: Have independent understanding in the fields of short videos and socialized marketing; was invited to deliver keynote speech at the industrial summits such as Superstar on Weibo, Newrank Conference, Tencent Entrepreneurial Festival, and IQIYI Partner Conference; and acted as guest lecturers in Communication University of China, CCTV, Autohome, GLG and other institutions.
 * **Social appointments**: Supervisor of Chaoyang District Non-Party Intellectuals Friendship Association, Member of Youth Committee of WRSA, and Director of China Cinema Editors Association Short Film Professional Committee
 * **English proficiency**: IELTS 7.0
+
+[![Page Views Count](https://badges.toozhao.com/badges/01GBQDFQPXCKDDJNDSGX3J2QDT/blue.svg)](https://badges.toozhao.com/stats/01GBQDFQPXCKDDJNDSGX3J2QDT "Get your own page views count badge on badges.toozhao.com")
