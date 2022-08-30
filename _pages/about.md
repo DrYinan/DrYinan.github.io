@@ -8,43 +8,70 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+### 王一楠
+📞18600075010
+📫me@yinan.liu
+📍北京市朝阳区
+### 教育背景
+**北京大学  博士** <br/>
+艺术学院，艺术学理论（艺术管理和文化产业方向） <br/>
+2019.08 - 2023.06 <br/>
+GPA：3.85/4  <br/>
+研究方向：数字文化产业、数字媒体艺术、游戏消费 <br/>
+导师：林一教授（长江学者）
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+**北京大学 MBA**  <br/>
+光华管理学院，工商管理  <br/>
+2017.08 - 2019.06  <br/>
+GPA：3.64/4  <br/>
+以色列耶路撒冷希伯来大学、日本京都大学访学
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+**英国萨塞克斯大学 硕士**  <br/>
+传媒、电影与音乐学院，数字媒体   <br/>
+2012.09 - 2013.10  <br/>
+2:1 （Merit） 学位，英特尔中国区市场部实习
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**中国传媒大学 本科**   <br/>
+动画与数字艺术学院，数字媒体艺术  <br/>
+2007.08 - 2011.06  <br/>
+毕业设计作品系内排名第一，院学生会主席
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+### 工作经历
+**北京青藤文化股份有限公司（839044） 联合创始人、董事、副总裁**   <br/>
+2013.09 - 2019.07
+* 作为创始人股东参与公司早期创业，协助CEO制定公司战略并率先在业内提出MCN本土化构想；任职期间公司规模发展至150人，
+旗下红人一百余位，各平台粉丝总量过亿，获评中国短视频企业TOP30，MCN机构TOP5，B站MCN内容和商业双榜第一。
+* 协助CEO进行融资，负责撰写商业计划书，有独立路演经验；2016年10月挂牌新三板，先后完成A轮火星文化900万元、B轮平衡
+资本领投3500万元，B+轮腾讯TOPIC基金3166万元三轮融资，投后估值约3亿元人民币。
+* 主持公司商务工作，制定各业务线的销售、客户服务策略；主导重要项目的商业化提案及谈判工作；公司2016年至2018年营收从
+1352万元增长至8484万元。
+* 组建公司整合营销事业部，兼任总经理；首年带领20余人团队营收1925万，综合中标率45%，超额完成盈利目标；先后开拓了腾
+讯、利洁时、高瓴资本、雀巢咖啡、中国人寿等十余个中长期客户。
+* 为客户提供新媒体营销及广告制作服务，带领团队执行项目过百个；在美国、韩国、南极等地有海外项目经验；曾荣获金瞳奖栏目
+营销金奖、IAI国际广告奖金奖、腾讯营销突破奖、金榜奖年度快消案例金奖、TopDigital品牌整合金奖、金锋奖整合营销金奖等行
+业奖项。
+* 负责内容产品的媒介拓展，覆盖各类视频平台、OTT、垂直网站、社交媒体渠道近百个；推动达成与微博、优酷、腾讯视频、爱奇
+艺、哔哩哔哩、今日头条、淘宝、快手等平台的战略合作伙伴关系。
+* 优化内部管理，根据新媒体行业特点对公司进行改革，由职能制改为事业部制；协助人事部门制定公司职级晋升体系，提出工资计
+件、贡献度奖金等薪酬激励办法；规范客户服务流程，建立客户关系管理评价体系。
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+### 学术发表
+1. 电影发行“窗口期模式”的演变动因与未来图景，电影评介（北核） 2021.10
+2. 关于高质量推动“线上文化出海”的建议，文化和旅游智库要报（文化部智库成果） 2021.07
+3. 智能媒体时代内容创作者对算法的使用立场研究，中国编辑（CSSCI&北核） 2021.03
+4. 跨媒介叙事视角下游戏叙事对教育游戏开发的启示，中国电化教育（CSSCI&北核） 2020.11
+5. 从《我不是药神》看中国现实主义电影的民粹化倾向，视听 2020.02
 
-**Markdown generator**
+### 项目经历
+* 对外文化与旅游融合发展研究，文化和旅游部项目（参与）
+* 中国文化艺术“走出国门”战略与策略研究，国家社科基金艺术学重大课题（参与）
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+### 荣誉奖励
+* 廖凯原奖学金、校三好学生、实践公益奖，北京大学
+* 第三届全球文化创意产业合作与发展国际会议，最佳学术论文奖，上海交通大学
+* 第六届中国（北京）国际大学生动画节，SIGGRAPH组委会特别奖，中国传媒大学
+### 其他信息
+* **行业洞察**： 在短视频和社会化营销领域有独立见解，曾受邀在微博超级红人节、新榜大会、腾讯创业节、爱奇艺合作者大会等行业
+峰会中做主题演讲，长期担任中国传媒大学、CCTV、汽车之家、GLC格里集团等机构的行业讲师。
+* **社会职务**： 朝阳区党外知识分子联谊会监事、欧美同学会青年委员会委员、中国电影剪辑学会短片短视频艺术委员会理事
+* **英语水平**： 雅思7.0
