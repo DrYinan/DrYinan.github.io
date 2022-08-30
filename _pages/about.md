@@ -74,3 +74,5 @@ GPA：3.64/4  <br/>
 峰会中做主题演讲，长期担任中国传媒大学、CCTV、汽车之家、GLC格里集团等机构的行业讲师。
 * **社会职务**： 朝阳区党外知识分子联谊会监事、欧美同学会青年委员会委员、中国电影剪辑学会短片短视频艺术委员会理事
 * **英语水平**： 雅思7.0
+
+[![Page Views Count](https://badges.toozhao.com/badges/01GBQDECJK344TKGFA56YGYRHF/green.svg)](https://badges.toozhao.com/stats/01GBQDECJK344TKGFA56YGYRHF "Get your own page views count badge on badges.toozhao.com")
