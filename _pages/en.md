@@ -10,7 +10,7 @@ redirect_from:
 Mobile: 186 0007 5010  &emsp;&emsp; |  &emsp;&emsp;  Email: me@yinan.wang  &emsp;&emsp;  |  &emsp;&emsp;  Address: Changping District, Beijing
 
 ## Education Experience	
-====
+---
 **Doctor in Art Theory (Orientation: Art Management and Cultural Industry)**  <br/> 
 School of Art, Peking University  <br/>
 Aug. 2019 - Jun. 2023  <br/>
@@ -35,7 +35,7 @@ Art	Aug. 2007 - Jun. 2011  <br/>
 Graduation project ranked the first in the Department, and served as the Leader of the Student Union of the School
 
 ## Work Experience	
-====
+---
 ### Director & Vice President
 **Beijing Qingteng Culture Co., Ltd. (839044) Co-founder**	  <br/>
 Sep. 2013 - Jul. 2019 
@@ -48,7 +48,7 @@ Sep. 2013 - Jul. 2019
 * Optimized internal management and reorganized the company to divisional system from functional system according to the industrial characteristics of new media contents; assisted HR Dept. to establish position promotion system, proposed innovative incentives such as piecework salary and contribution bonus; regulated customer service process and established CRM evaluation system.
 
 ## Academic Papers 
-====
+---
 1. The Evolution Motivation and Future Vision of the “Window Mode" of Film Distribution, Movie Review (core journal of Peking University)	Oct. 2021
 2. Suggestions on the High-quality Promotion of “Going Abroad for Online Culture", Major Think Tank Reports on Culture and Tourism  (think tank results of Ministry of Culture and Tourism)	Jul. 2021
 3. Research on the Position of Content Creators on the Use of Algorithms in the Era of Intelligent Media, Chinese Editors Journal (CSSCI & core journal of Peking University)	Mar. 2021
@@ -56,18 +56,18 @@ Sep. 2013 - Jul. 2019
 5. Seeing the Tendency of Populization of Chinese Realist Movies from Dying to Survive, Audiovisual	Feb. 2020
 
 ## Project Experience	
-====
+---
 * Research on the Integration and Development of Foreign Culture and Tourism, project of Ministry of Culture and Tourism (participated in)
 * Research on the Strategy of “Going Abroad” for Chinese Culture and Arts, major art project in the National Social Science Fund of China (participated in)
 
 ## Honors & Awards
-====
+---
 * **Leo KoGuan Scholarship**, University-level Merit Student, Award of Practice in Public Service, Peking University
 * **Best Academic Paper Award** in the 3rd International Conference on Global Cultural and Creative Industries, Shanghai Jiaotong University
 * **SIGGRAPH Organizing Committee Special Award** in the 6th China (Beijing) International Student Animation Festival, Communication University of China
 
 ## Other Information
-====
+---
 * **Industry insight**: Have independent understanding in the fields of short videos and socialized marketing; was invited to deliver keynote speech at the industrial summits such as Superstar on Weibo, Newrank Conference, Tencent Entrepreneurial Festival, and IQIYI Partner Conference; and acted as guest lecturers in Communication University of China, CCTV, Autohome, GLG and other institutions.
 * **Social appointments**: Supervisor of Chaoyang District Non-Party Intellectuals Friendship Association, Member of Youth Committee of WRSA, and Director of China Cinema Editors Association Short Film Professional Committee
 * **English proficiency**: IELTS 7.0
