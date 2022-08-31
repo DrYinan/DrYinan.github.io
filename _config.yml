@@ -10,7 +10,7 @@ locale                   : "zh-CN"
 title                    : "Home"
 title_separator          : "-"
 name                     : # &name ""
-description              : &description "艺术学理论（艺术管理和文化产业方向）博士, 北京大学, 艺术学院"
+description              : &description "北京大学艺术学博士 | 青藤文化联合创始人"
 url                      : https://www.yinan.wang # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DrYinan/DrYinan.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : # "王一楠"
   avatar           : "yinan.jpg"
-  bio              : "艺术学理论（艺术管理和文化产业方向）博士, 北京大学, 艺术学院"
-  location         : "北京市朝阳区"
+  bio              : "北京大学艺术学博士 | 青藤文化联合创始人"
+  location         : "北京市"
   employer         :
   pubmed           : 
   googlescholar    : 
