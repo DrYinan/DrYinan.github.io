@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV of Yinan Wang"
+title: "Yinan Wang"
 permalink: /en/
 author_profile: true
 redirect_from:
