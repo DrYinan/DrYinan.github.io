@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Mobile: 186 0007 5010  <br/>
+Mobile: +8618600075010  <br/>
 Email: me@yinan.wang <br/>
 Address: Changping District, Beijing
 
