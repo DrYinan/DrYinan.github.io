@@ -8,8 +8,8 @@
 # Site Settings
 locale                   : "en"
 title                    : "中文"
-title_separator          : # "-"
-name                     : # &name "王一楠"
+title_separator          : "-"
+name                     : &name "王一楠"
 description              : &description "北京大学艺术学博士"
 url                      : https://www.yinan.wang # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -252,7 +252,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:categories/ #:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
