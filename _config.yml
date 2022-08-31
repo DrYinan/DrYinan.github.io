@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "王一楠 / Home"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "王一楠"
+name                     : # &name ""
 description              : &description "艺术学理论（艺术管理和文化产业方向）博士, 北京大学, 艺术学院"
 url                      : https://www.yinan.wang # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
