@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : "Yinan Wang"
   avatar           : "yinan.jpg"
-  bio              : 
-  location         : 
+  bio              : "Ph.D. Candidate, Peking University"
+  location         : "Beijing"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : 
+  email            : "me@yinan.wang"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "wangyinan75"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -111,7 +111,7 @@ author:
   tumblr           :
   twitter          : 
   vine             :
-  weibo            :
+  weibo            : "YINAN王一楠"
   xing             :
   youtube          :
   wikipedia        :
