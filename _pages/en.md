@@ -28,22 +28,22 @@ Co-founder, Board Member & Vice President, Beijing Ividea Cultural Co., Ltd., 20
 
 ## Pubilication
 ---
-[1] The Evolution Motivation and Future Vision of the “Window Mode" of Film Distribution, Movie Review, 2021[br/]
-[2] Suggestions on the High-quality Promotion of “Going Abroad for Online Culture", Major Think Tank Reports on Culture and Tourism, 2021[br/]
-[3] Research on the Position of Content Creators on the Use of Algorithms in the Era of Intelligent Media, Chinese Editors Journal, 2021[br/]
-[4] Narrative in Video Games and Its Enlightenment on the Development of Educational Games from the Perspective of Transmedia Narratology, China Educational Technology, 2020[br/]
-[5] Seeing the Tendency of Populization of Chinese Realist Movies from Dying to Survive, Audiovisual, 2020[br/]
+[1] The Evolution Motivation and Future Vision of the “Window Mode" of Film Distribution, Movie Review, 2021<br/>
+[2] Suggestions on the High-quality Promotion of “Going Abroad for Online Culture", Major Think Tank Reports on Culture and Tourism, 2021<br/>
+[3] Research on the Position of Content Creators on the Use of Algorithms in the Era of Intelligent Media, Chinese Editors Journal, 2021<br/>
+[4] Narrative in Video Games and Its Enlightenment on the Development of Educational Games from the Perspective of Transmedia Narratology, China Educational Technology, 2020<br/>
+[5] Seeing the Tendency of Populization of Chinese Realist Movies from Dying to Survive, Audiovisual, 2020<br/>
 
 ## Project
 ---
-* TA, Cross cultural art management talent training ,China National Arts Fund[br/]
-* RA, Research on the Integration and Development of Foreign Culture and Tourism, Ministry of Culture and Tourism[br/]
-* RA, Research on the Strategy of “Going Abroad” for Chinese Culture and Arts, The National Social Science Fund of China[br/]
+[1] TA, Cross cultural art management talent training ,China National Arts Fund<br/>
+[2] RA, Research on the Integration and Development of Foreign Culture and Tourism, Ministry of Culture and Tourism<br/>
+[3] RA, Research on the Strategy of “Going Abroad” for Chinese Culture and Arts, The National Social Science Fund of China<br/>
 
 ## Awards
 ---
-* Leo KoGuan Scholarship, University-level Merit Student, Award of Practice in Public Service, Peking University[br/]
-* Best Academic Paper Award** in the 3rd International Conference on Global Cultural and Creative Industries, Shanghai Jiaotong University[br/]
-* SIGGRAPH Organizing Committee Special Award** in the 6th China (Beijing) International Student Animation Festival, Communication University of China[br/]
+[1] Leo KoGuan Scholarship, Merit Student, Award of Practice in Public Service, Peking University<br/>
+[2] Best Academic Paper Award in the 3rd International Conference on Global Cultural and Creative Industries, Shanghai Jiaotong University<br/>
+[3] SIGGRAPH Organizing Committee Special Award in the 6th China (Beijing) International Student Animation Festival, Communication University of China<br/>
 
 [![Page Views Count](https://badges.toozhao.com/badges/01GBQDFQPXCKDDJNDSGX3J2QDT/blue.svg)](https://badges.toozhao.com/stats/01GBQDFQPXCKDDJNDSGX3J2QDT "Get your own page views count badge on badges.toozhao.com")
