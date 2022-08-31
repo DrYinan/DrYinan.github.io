@@ -11,7 +11,7 @@ redirect_from:
 TEL: 18600075010  &emsp;&emsp;  |  &emsp;&emsp;  E-mail: me@yinan.wang  &emsp;&emsp;  |   &emsp;&emsp; 北京市 朝阳区
 
 ## 教育背景
-北京大学 艺术学院，博士，2023<br/>
+北京大学 艺术学院，博士研究生在读<br/>
 北京大学 光华管理学院，MBA，2019<br/>
 萨塞克斯大学 传媒、电影与音乐学院，硕士，2013<br/>
 中国传媒大学 动画与数字艺术学院，学士，2011<br/>
