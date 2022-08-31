@@ -22,7 +22,7 @@ Bachelor in Digital Media, School of Animation and Digital Arts, Communication U
 ---
 Co-founder, Board Member & Vice President, Beijing Ividea Cultural Co., Ltd., 2013 - 2019<br/>
 
-* Participated in the startup of the company as one of co-founders; was responsible for the commercial affairs such as the development of the sales and customer service strategy of various service lines; led the commercialized proposal and negotiation of important projects; 
+* Participated in the startup of the company as one of co-founders; was responsible for the commercial affairs such as the development of the sales and customer service strategy of various service lines; led the commercialized proposal and negotiation of important projects.
 * Won industrial awards including Gold Award in China Content Marketing Awards for Column Marketing, Gold Award in IAI Awards, Tencent M Power Awards, Gold Award in Annual Gold Rank for FMCG Cases, Gold Award in TopDigital Brand Integration Awards, Gold Award in Golden Edge Award Integrated Marketing, etc.
 * The company was listed in TOP30 Short Video Enterprises in China, TOP5 MCN institutions, and the first place in Bilibili ranking on MCN content and business; was listed in NEEQ in Oct. 2016, and then accomplished three rounds of financing with estimated value of RMB 300 million after investment, including RMB 9 million in A round of Huoxing Culture, Balance Capital, Tencent TOPIC Funds and Bilibili.
 
