@@ -13,7 +13,7 @@ Address: Changping District, Beijing
 
 ## Education
 ---
-Ph.D. Candidate in Art Theory, School of Art, Peking University, 2023<br/>
+Doctor of Art in Art Theory, School of Art, Peking University, 2023<br/>
 MBA, Guanghua School of Management, Peking University, 2019 <br/>
 Master in Digital Media, School of Media, Film and Music, University of Sussex, 2013<br/>
 Bachelor in Digital Media, School of Animation and Digital Arts, Communication University of China, 2011 <br/> 
