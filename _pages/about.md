@@ -11,10 +11,10 @@ redirect_from:
 TEL: 18600075010  &emsp;&emsp;  |  &emsp;&emsp;  E-mail: me@yinan.wang  &emsp;&emsp;  |   &emsp;&emsp; 北京市 朝阳区
 
 ## 教育背景
-北京大学 艺术学院，博士，在读<br/>
+北京大学 艺术学院，艺术学理论博士，2023<br/>
 北京大学 光华管理学院，MBA，2019<br/>
-萨塞克斯大学 传媒、电影与音乐学院，硕士，2013<br/>
-中国传媒大学 动画与数字艺术学院，学士，2011<br/>
+萨塞克斯大学 传媒、电影与音乐学院，数字媒体硕士，2013<br/>
+中国传媒大学 动画与数字艺术学院，数字媒体艺术学士，2011<br/>
 
 ## 工作经历
 北京青藤文化股份有限公司（839044），联合创始人、董事、副总裁，2013 - 2019<br/>
@@ -25,7 +25,8 @@ TEL: 18600075010  &emsp;&emsp;  |  &emsp;&emsp;  E-mail: me@yinan.wang  &emsp;&e
 ## 社会职务
 北京市朝阳区党外知识分子联谊会，监事会，监事<br/>
 欧美同学会，青年委员会，副会长<br/>
-中国电影剪辑学会，短片短视频艺术委员会，理事<br/>
+中国电影剪辑学会，短片短视频艺会，理事<br/>
+国际艺术实验联盟，秘书处，秘书<br/>
 
 ## 学术发表
 [1] Developing Creative Leadership in the Use of Digital Communication Tools: A Psychological Perspective.*Sustainability*.2022.SSCI<br/>
@@ -45,7 +46,8 @@ TEL: 18600075010  &emsp;&emsp;  |  &emsp;&emsp;  E-mail: me@yinan.wang  &emsp;&e
 
 ## 荣誉奖励
 [1] 北京大学国家奖学金、廖凯原奖学金、校三好学生、实践公益奖<br/>
-[2] 第三届全球文化创意产业合作与发展国际会议，最佳学术论文奖<br/>
-[3] 第六届中国（北京）国际大学生动画节，SIGGRAPH组委会特别奖<br/>
+[2] 北京大学艺术学院优秀博士论文<br/>
+[3] 第三届全球文化创意产业合作与发展国际会议，最佳学术论文奖<br/>
+[4] 第六届中国（北京）国际大学生动画节，SIGGRAPH组委会特别奖<br/>
 
 [![Page Views Count](https://badges.toozhao.com/badges/01GBQDECJK344TKGFA56YGYRHF/green.svg)](https://badges.toozhao.com/stats/01GBQDECJK344TKGFA56YGYRHF "Get your own page views count badge on badges.toozhao.com")
