@@ -20,7 +20,7 @@ Bachelor in Digital Media, School of Animation and Digital Arts, Communication U
 
 ## Experience	
 ---
-Lecturer, Department of Digital Humanities, School of Information Resource Management, Renmin University of China, 2024 - <br/>
+Lecturer of Digital Humanities, School of Information Resource Management, Renmin University of China, 2024 - <br/>
 Co-founder, Board Member & Vice President, Beijing Ividea Cultural Co., Ltd., 2013 - 2019<br/>
 
 
