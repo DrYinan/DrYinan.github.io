@@ -17,12 +17,12 @@ TEL: 18600075010  &emsp;&emsp;  |  &emsp;&emsp;  E-mail: me@yinan.wang  &emsp;&e
 中国传媒大学 动画与数字艺术学院，数字媒体艺术学士，2011<br/>
 
 ## 工作经历
-中国人民大学 信息资源管理学院数字人文系，讲师 2024 - 今<br/>
-北京青藤科技股份有限公司（839044），联合创始人 2013 - 2019<br/>
+中国人民大学 信息资源管理学院数字人文系，讲师，2024 - 今<br/>
+北京青藤科技股份有限公司（839044），联合创始人，2013 - 2019<br/>
 
 ## 社会职务
-北京市朝阳区党外知识分子联谊会 监事会，监事<br/>
-中国电影剪辑学会 短片短视频艺会，理事<br/>
+北京市朝阳区党外知识分子联谊会，监事、数字经济专委会副主任<br/>
+中国电影剪辑学会 短片短视频艺术委员会，理事<br/>
 国际艺术实验联盟 秘书处，成员<br/>
 
 [![Page Views Count](https://badges.toozhao.com/badges/01GBQDECJK344TKGFA56YGYRHF/green.svg)](https://badges.toozhao.com/stats/01GBQDECJK344TKGFA56YGYRHF "Get your own page views count badge on badges.toozhao.com")
